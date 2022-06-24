@@ -7,7 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h3>About Developer</h3>
-<br>
 <p>It's created by DevNajib</p>
 <p>Facebook: <a href="https://www.facebook.com/developernajib">DeveloperNajib</a></p>
 <p>Telegram: <a href="https://www.t.me/developernajib">DeveloperNajib</a></p>
