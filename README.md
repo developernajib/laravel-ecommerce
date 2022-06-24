@@ -6,10 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## About Developer
-It's created by DevNajib
-Facebook: @DeveloperNajib
-Telegram: @DeveloperNajib
+<b>About Developer</b>
+<p>It's created by DevNajib</p>
+<p>Facebook: @DeveloperNajib</p>
+<p>Telegram: @DeveloperNajib</p>
 
 
 ## About Laravel
