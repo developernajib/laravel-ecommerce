@@ -1,0 +1,25 @@
+.dashboard-search-icon{
+    display: none;
+}
+.search-box{
+    padding: 10px;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.d-ib {
+    border-radius: 0.5rem;
+    display: inline-block !important;
+}
+.icon-shape-redesign{
+    padding: 2rem 0rem;
+}
+.ta-c{
+    text-align: center;
+}
+.of-h{
+    width: 99% !important;
+}
+.ps__rail-x{
+    bottom: 1330px;
+}
